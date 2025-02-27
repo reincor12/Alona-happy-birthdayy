@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 5px;
+}
+
+p{
+    font-size: 20px;
+}
+
+li{
+    margin-top: 10px;
+    font-size: 20px;
+    list-style: outside;
+}
+
+.img-1-right{
+    float: right;
+    margin-right: 65px;
+}
+
+.img-2-left{
+    float: left;
+    margin-left: 90px;
+}
+
+main{
+    width: 800px;
+    margin-left: 350px;
+    padding-left: 10px;
+}
